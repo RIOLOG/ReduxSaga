@@ -1,0 +1,23 @@
+{
+    "product":[
+        {
+            "id":1,
+            "name":"Samsung m40",
+            "color":"black",
+            "price":"15000",
+            "categoty":"mobile",
+            "brand":"Samsung",
+            "photo":"https://www.bing.com/images/search?view=detailV2&ccid=DrwINzRe&id=4ACC8F92A62603349254860B63EF4C68F0171F1F&thid=OIP.DrwINzRezL2ZlfdWuJ-W8AHaKR&mediaurl=https%3a%2f%2fmyphoneworld.co.uk%2fwp-content%2fuploads%2f2020%2f06%2fGalaxy-S53.jpg&exph=1500&expw=1082&q=samsung&simid=608001004090962538&FORM=IRPRST&ck=16DB94D661A5772461E5BB95EE27C4EB&selectedIndex=3&ajaxhist=0&ajaxserp=0"
+        },
+        {
+            "id":2,
+            "name":"iphone",
+            "color":"black",
+            "price":"150000",
+            "categoty":"mobile",
+            "brand":"Apple",
+            "photo":"https://www.bing.com/images/search?view=detailV2&ccid=n1UdAuk1&id=6DDB8A5B8DA8D2A7449118D3FAC6445020FC461C&thid=OIP.n1UdAuk1vqwRBHk5BX7E0gAAAA&mediaurl=https%3a%2f%2fcdn.ipadizate.com%2fs%2fiphone-15.png%3fwidth%3d768%26format%3dnowebp&exph=474&expw=474&q=apple+iphone+15&simid=608044885834165789&FORM=IRPRST&ck=A5594B92D94901DEB8B74B49DA9E58DB&selectedIndex=1&ajaxhist=0&ajaxserp=0"
+        }
+
+    ]
+}
